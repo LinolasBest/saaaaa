@@ -1,92 +1,20 @@
-[
-  {
-    "appid": "389730",
-    "name": "Day of Defeat",
-    "url": "https://cdn.discordapp.com/attachments/1360899054581846016/1360906109610889278/Day_of_Defeat.zip"
-  },
-  {
-    "appid": "2651280",
-    "name": "Marvel's Spider-Man 2",
-    "url": "https://cdn.discordapp.com/attachments/1360899054581846016/1360906425403969606/Marvels_Spider-Man_2.zip"
-  },
-  {
-    "appid": "1245620",
-    "name": "Elden Ring",
-    "url": "https://cdn.discordapp.com/attachments/1360899054581846016/1360914957394382858/Elden_Ring.zip"
-  },
-  {
-    "appid": "2668510",
-    "name": "Red Dead Redemption",
-    "url": "https://cdn.discordapp.com/attachments/1360899054581846016/1360946443850092706/Red_dead_redemption_1.zip"
-  },
-  {
-    "appid": "1174180",
-    "name": "Red Dead Redemption 2",
-    "url": "https://cdn.discordapp.com/attachments/1360899054581846016/1360946444256673893/Red_Dead_Redemption_2.zip"
-  },
-  {
-    "appid": "361420",
-    "name": "ASTRONEER",
-    "url": "https://cdn.discordapp.com/attachments/1360899054581846016/1360946445007458394/ASTRONEER.zip"
-  },
-  {
-    "appid": "911400",
-    "name": "Assassin's Creed III",
-    "url": "https://cdn.discordapp.com/attachments/1360899054581846016/1360946445406044292/Assassins_Creed_III.zip"
-  },
-  {
-    "appid": "242050",
-    "name": "Assassin's Creed IV Black Flag",
-    "url": "https://cdn.discordapp.com/attachments/1360899054581846016/1360946444688949431/Assassins_Creed_IV_Black_Flag.zip"
-  },
-  {
-    "appid": "1326470",
-    "name": "Sons of the Forest",
-    "url": "https://cdn.discordapp.com/attachments/1360899054581846016/1360946445993382039/son_of_the_forest.zip"
-  },
-  {
-    "appid": "1222140",
-    "name": "Detroit: Become Human",
-    "url": "https://cdn.discordapp.com/attachments/1360899054581846016/1360954127236202607/Detroit_Become_Human.zip"
-  },
-  {
-    "appid": "3121110",
-    "name": "Zort",
-    "url": "https://cdn.discordapp.com/attachments/1360899054581846016/1360954127735197856/Zort.zip"
-  },
-  {
-    "appid": "3241660",
-    "name": "R.E.P.O",
-    "url": "https://cdn.discordapp.com/attachments/1360899054581846016/1360957565491740723/R.E.P.O.zip"
-  },
-  {
-    "appid": "252491",
-    "name": "inZOI",
-    "url": "https://cdn.discordapp.com/attachments/1360899054581846016/1360957565185298663/inZOI.zip"
-  },
-  {
-    "appid": "3008670",
-    "name": "Poppy Playtime - Chapter 4",
-    "url": "https://cdn.discordapp.com/attachments/1360899054581846016/1360957564896153723/Poppy_Playtime_-_Chapter_4.zip"
-  },
-  {
-    "appid": "1888930",
-    "name": "The Last of Us Part II",
-    "url": "https://cdn.discordapp.com/attachments/1360899054581846016/1360957564560605255/The_Last_Of_Us_Part_2.zip"
-  },
-  {
-    "appid": "1091500",
-    "name": "Cyberpunk 2077",
-    "url": "https://cdn.discordapp.com/attachments/1360899054581846016/1360957564233187349/Cyberpunk_2077.zip"
-  },
-  {
-    "appid": "1290000",
-    "name": "PowerWash Simulator",
-    "url": "https://cdn.discordapp.com/attachments/1360899054581846016/1360957563914686586/PowerWash_Simulator.zip"
-  },
-  {
-    "appid": "4000",
-    "name": "Garry's Mod",
-    "url": "https://cdn.discordapp.com/attachments/1360899054581846016/1360957563616886815/Garrys_Mod.zip"
-  }
-]
+{
+  "389730": "https://cdn.discordapp.com/attachments/1360899054581846016/1360906109610889278/Day_of_Defeat.zip?ex=67fcd214&is=67fb8094&hm=a799e724f4f4d347cdbdd4430cffb53b3e1d35d1d63e7f9caa26e6b8ac7cab4c&",
+  "2651280": "https://cdn.discordapp.com/attachments/1360899054581846016/1360906425403969606/Marvels_Spider-Man_2.zip?ex=67fcd260&is=67fb80e0&hm=04a2a48dbb74ab3ac192e9916ddfdc86e5b7ce15d29bb7e6b7711cc7631707da&",
+  "1245620": "https://cdn.discordapp.com/attachments/1360899054581846016/1360914957394382858/Elden_Ring.zip?ex=67fcda52&is=67fb88d2&hm=d296f409131488f2f37d3cca4394942bf648a874ce1392d0fa319d8402b6f321&",
+  "2668510": "https://cdn.discordapp.com/attachments/1360899054581846016/1360946443850092706/Red_dead_redemption_1.zip?ex=67fcf7a5&is=67fba625&hm=c0b645a9197fa155c2f62362dc873f6d841a07916c68df807465ea85f969cb18&",
+  "1174180": "https://cdn.discordapp.com/attachments/1360899054581846016/1360946444256673893/Red_Dead_Redemption_2.zip?ex=67fcf7a5&is=67fba625&hm=9edf658f6dc0e53575ab1efeff4140edfb4d394a26041db86d9eaadf0d96c1b8&",
+  "361420": "https://cdn.discordapp.com/attachments/1360899054581846016/1360946445007458394/ASTRONEER.zip?ex=67fcf7a5&is=67fba625&hm=787b1e6aaa9e06746d7f4483e4767532076e30b112b3179ae9ec9e66dc2fe1c9&",
+  "911400": "https://cdn.discordapp.com/attachments/1360899054581846016/1360946445406044292/Assassins_Creed_III.zip?ex=67fcf7a5&is=67fba625&hm=7f6ed711aeb5507873e3aa69ce82a37d1d79cc5226592ff2907938b7f374aff2&",
+  "242050": "https://cdn.discordapp.com/attachments/1360899054581846016/1360946444688949431/Assassins_Creed_IV_Black_Flag.zip?ex=67fcf7a5&is=67fba625&hm=38aa96693f6c1006884798f2983a3793bd7c2f011afd44e821b5bcc1884557d5&",
+  "1326470": "https://cdn.discordapp.com/attachments/1360899054581846016/1360946445993382039/son_of_the_forest.zip?ex=67fcf7a5&is=67fba625&hm=f6711c423f483c0e3235bacd68a1093c239a39f889b396cf43f68a8bb18a1c01&", 
+  "1222140": "https://cdn.discordapp.com/attachments/1360899054581846016/1360954127236202607/Detroit_Become_Human.zip?ex=67fcfecd&is=67fbad4d&hm=9434b3d8a49c0ddfb372e579ead170d40ac82ec1392b924fd8e3c67102b007ae&",
+  "3121110": "https://cdn.discordapp.com/attachments/1360899054581846016/1360954127735197856/Zort.zip?ex=67fcfecd&is=67fbad4d&hm=5b761fa838dcce51f89c0d70a469dcd8a2ef085c910cfb0f3606e662c58fdb96&",
+  "3241660": "https://cdn.discordapp.com/attachments/1360899054581846016/1360957565491740723/R.E.P.O.zip?ex=67fd0200&is=67fbb080&hm=3976580b66d09cda41f5e6311a1d3f2ceee2d9756c9550ec929700c3e0536d77&",
+  "252491": "https://cdn.discordapp.com/attachments/1360899054581846016/1360957565185298663/inZOI.zip?ex=67fd0200&is=67fbb080&hm=3639462bde1cea5003955582f1a1c727b5acb45aa9eb60c796da99a0e8744856&",
+  "3008670": "https://cdn.discordapp.com/attachments/1360899054581846016/1360957564896153723/Poppy_Playtime_-_Chapter_4.zip?ex=67fd0200&is=67fbb080&hm=5229504d81fb6a7aff6b0fa109d1fc0a0141a46005546403d08d8535dbd2a7f2&",
+  "1888930": "https://cdn.discordapp.com/attachments/1360899054581846016/1360957564560605255/The_Last_Of_Us_Part_2.zip?ex=67fd0200&is=67fbb080&hm=9e02e9a4c3349c7a13e520888baa9e55292900e5cdf3cfda1f17103c8c845efd&",
+  "1091500": "https://cdn.discordapp.com/attachments/1360899054581846016/1360957564233187349/Cyberpunk_2077.zip?ex=67fd0200&is=67fbb080&hm=8726c64eae9709718ffab5b24adc6844004bf2bb52bfaddad13996a1faf9777a&",
+  "1290000": "https://cdn.discordapp.com/attachments/1360899054581846016/1360957563914686586/PowerWash_Simulator.zip?ex=67fd0200&is=67fbb080&hm=1ef2cc1e093a070e49682ccbeb9403dfb6b00c6bcaccfa6d307a555c2075e4b3&",
+  "4000": "https://cdn.discordapp.com/attachments/1360899054581846016/1360957563616886815/Garrys_Mod.zip?ex=67fd0200&is=67fbb080&hm=156353338ce9ae0a6d8c0dbfbc245697886cdcde944414c5de004c4f6bdebd4a&"
+}
